@@ -25,7 +25,7 @@
   },
   "include": [
     "next-env.d.ts",
-    "**/*.ts",
+    // "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
